@@ -9,13 +9,12 @@ Project Name : Front-end Assignment
 
  Installation and SetUp :
   - Clone the repositiory to local folder 
-  - Navigate to the project local folder and install all the npm packages by following command 
-   npm install
-  - Once installation completed , start the development server using following command 
-  npm start 
+  - Navigate to the project local folder and install all the npm packages by following command : npm install 
+  - Once installation completed , start the development server using following command : npm start
   
   - Application URL : http://localhost:3000
-  
+
+
   Application Design :
   - Cloned the copy of base code from given repository.
   - Request for api data from the given link :https://api.nasa.gov/index.html#apply-for-an-api-key
