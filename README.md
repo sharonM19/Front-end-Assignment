@@ -1,7 +1,7 @@
 # Front-end-Assignment
 
 Project Name : Front-end Assignment
- The application extracts content from NASA api and shows to the user for selected duration (last week, last two weeks , last 30 days).
+ - The application extracts content from NASA api and shows to the user for selected duration (last week, last two weeks , last 30 days).
  Built using React,CSS ,Material-UI ,
  
  Project Screenshot :
@@ -14,7 +14,7 @@ Project Name : Front-end Assignment
   - Once installation completed , start the development server using following command 
   npm start 
   
-  Application URL : http://localhost:3000
+  - Application URL : http://localhost:3000
   
   Application Design :
   - Cloned the copy of base code from given repository.
