@@ -1,0 +1,70 @@
+.root{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content :space-around;
+    overflow: hidden;  
+  }
+
+.gridList {
+    width: 900px;
+    height: auto;
+    background-color: #eff3f8;
+ }
+
+ .MuiGridListTile-tile {
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.2);
+ }
+
+ .title {
+    height:auto;
+    width: 150px;  
+ }
+
+ div.MuiGridListTileBar-title {
+  white-space: pre-wrap;
+  line-height: 15px;
+}
+
+ .titleClass {
+    color:#212121;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  .MuiGridListTileBar-titleWrapActionPosRight{
+    text-align: left;
+    width: 25px;
+  }
+
+  .subtitleClass{
+    color:#848484;
+    font-size: 0.4em;
+  }
+
+  .topBar{
+    width: 95px;
+    height: 2px;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 3px; 
+  }
+  
+  div.MuiGridListTileBar-root{
+    background: #735dd0;
+  }
+
+  div.MuiGridListTileBar-titleWrap {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  div.MuiGridListTileBar-titlePositionTop{
+    width: 70px;
+    height: 20px;
+  }
+
+  .dateClass {
+    font-size: 0.6em;
+    font-weight: bold; 
+  }
